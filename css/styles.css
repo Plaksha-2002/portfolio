@@ -197,8 +197,10 @@ padding-bottom: 50px;
     width: 70%;
 }
 .laptop{
-    position: absolute;
-    padding-left: 900px;
+    width: 30%;;
+    position:absolute;
+    /* padding-left: 300px; */
+    margin-left: 60%;
  
 }
 
